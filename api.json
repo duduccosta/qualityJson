@@ -1,0 +1,233 @@
+{
+  "appGenerico": [
+    {
+      "codcli": "0009",
+      "nome": "Cajubá Country Club",
+      "url": "https://boleto.cajuba.org.br/"
+    }
+  ],
+  "appParticular": [
+    {
+      "codCli": "9998",
+      "ios": {
+        "version": "1.0.6",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "6"
+      },
+      "appName": "AppTeste",
+      "url": "https://qualitysys.com.br:1570/",
+      "sistemaQuality": true
+    },
+    {
+      "codCli": "9988",
+      "ios": {
+        "version": "1.0.6",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "6"
+      },
+      "appName": "AppTeste Nova API",
+      "url": "https://qualitysys.com.br:4455/"
+    },
+    {
+      "codCli": "0045",
+      "ios": {
+        "version": "1.0.8",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.3",
+        "build": "8"
+      },
+      "appName": "MackenzieBH",
+      "url": "http://177.206.87.117:8080/"
+    },
+    {
+      "codCli": "0009",
+      "ios": {
+        "version": "1.0.3",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.3",
+        "build": "4"
+      },
+      "appName": "Cajubá",
+      "url": "https://boleto.cajuba.org.br/"
+    },
+    {
+      "codCli": "0120",
+      "ios": {
+        "version": "1.0.4",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.3",
+        "build": "4"
+      },
+      "appName": "Campestre Clube MA",
+      "url": "http://170.83.211.222:5000/"
+    },
+    {
+      "codCli": "0070",
+      "ios": {
+        "version": "1.0.2",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.2",
+        "build": "3"
+      },
+      "appName": "Magic Gardens",
+      "url": "http://201.16.142.105:5000/"
+    },
+    {
+      "codCli": "0005",
+      "ios": {
+        "version": "1.0.3",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.5",
+        "build": "6"
+      },
+      "appName": "RegatasRP",
+      "url": "http://mail.clubederegatas.com.br:8888/"
+    },
+    {
+      "codCli": "0219",
+      "ios": {
+        "version": "1.0.2",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.2",
+        "build": "3"
+      },
+      "appName": "Clube Campestre Varginha",
+      "url": "http://177.91.33.12:8899/"
+    },
+    {
+      "codCli": "0231",
+      "ios": {
+        "version": "1.0.2",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.2",
+        "build": "3"
+      },
+      "appName": "Clube de Campo Umuarama",
+      "url": "http://umuaramatc.dotcomti.com.br:10060/"
+    },
+    {
+      "codCli": "0042",
+      "ios": {
+        "version": "1.0.3",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.5",
+        "build": "5"
+      },
+      "appName": "APCEF DF",
+      "url": "http://177.75.2.134:8888/"
+    },
+    {
+      "codCli": "0021",
+      "ios": {
+        "version": "1.0.4",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.2",
+        "build": "3"
+      },
+      "appName": "Caiçaras Country Clube",
+      "url": "http://177.69.95.81:6060/"
+    },
+    {
+      "codCli": "0006",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Clube CPN",
+      "url": "http://clubecpn.ddns.net:9000/"
+    },
+    {
+      "codCli": "0076",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Caicaras Jau",
+      "url": "http://caicarajau.ddns.net:84/"
+    },
+    {
+      "codCli": "0043",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Araguaia Campestre Clube",
+      "url": "http://araguaians.ddns.net:5010/"
+    },
+    {
+      "codCli": "0036",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Assary",
+      "url": "http://186.237.229.27:50002/"
+    },
+    {
+      "codCli": "0144",
+      "ios": {
+        "version": "1.0.2",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.2",
+        "build": "3"
+      },
+      "appName": "Clube Castelinho",
+      "url": "http://aeccastelinho.ddns.net:50002/"
+    },
+    {
+      "codCli": "9999",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Thermas da Mata",
+      "url": "http://qualitysys.com.br:8988/"
+    }
+  ]
+}
