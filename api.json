@@ -228,6 +228,19 @@
       },
       "appName": "Thermas da Mata",
       "url": "http://qualitysys.com.br:8988/"
+    },
+    {
+      "codCli": "0018",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Caça e Pesca Uberlândia",
+      "url": "http://201.48.76.132:5200/"
     }
   ]
 }
