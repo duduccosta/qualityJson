@@ -241,6 +241,19 @@
       },
       "appName": "Clube Caça e Pesca Uberlândia",
       "url": "http://201.48.76.132:5200/"
+    },
+    {
+      "codCli": "0083",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "AETÉ Clube",
+      "url": "http://177.128.80.178:10060/"
     }
   ]
 }
