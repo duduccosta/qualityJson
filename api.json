@@ -254,6 +254,19 @@
       },
       "appName": "AETÉ Clube",
       "url": "http://177.128.80.178:10060/"
+    },
+    {
+      "codCli": "0027",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Filadélfia",
+      "url": "http://191.187.33.81:8080/"
     }
   ]
 }
