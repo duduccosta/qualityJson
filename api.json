@@ -267,6 +267,19 @@
       },
       "appName": "Clube Filadélfia",
       "url": "http://191.187.33.81:8080/"
+    },
+    {
+      "codCli": "0232",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Catiguá Tênis Clube",
+      "url": "http://177.85.2.96:5001/app/home"
     }
   ]
 }
