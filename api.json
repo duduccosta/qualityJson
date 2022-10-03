@@ -280,6 +280,20 @@
       },
       "appName": "Catiguá Tênis Clube",
       "url": "https://qualitysys.com.br:4433/"
+    },
+    {
+      "codCli": "0240",
+      "ios": {
+        "version": "1.0.1",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.1",
+        "build": "2"
+      },
+      "appName": "Thermas da Mata",
+      "url": "http://168.0.97.58:7789/",
+      "sistemaQuality": false
     }
   ]
 }
