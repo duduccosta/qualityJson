@@ -279,7 +279,9 @@
         "build": "1"
       },
       "appName": "Catiguá Tênis Clube",
-      "url": "https://qualitysys.com.br:4433/"
+      "url": "http://177.85.2.96:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     },
     {
       "codCli": "0240",
