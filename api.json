@@ -296,6 +296,21 @@
       "appName": "Thermas da Mata",
       "url": "http://168.0.97.58:7789/",
       "sistemaQuality": false
+    },
+    {
+      "codCli": "0016",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Pica-Pau Country Club",
+      "url": "http://sistema.picapau.com.br:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": false
     }
   ]
 }
