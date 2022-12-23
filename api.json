@@ -242,7 +242,9 @@
         "build": "1"
       },
       "appName": "Clube Caça e Pesca Uberlândia",
-      "url": "http://201.48.76.132:5200/"
+      "url": "http://201.48.76.132:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0083",
