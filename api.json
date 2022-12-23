@@ -162,9 +162,7 @@
         "build": "2"
       },
       "appName": "Clube CPN",
-      "url": "http://clubecpn.ddns.net:7789/",
-      "idEmpresa": 1,
-      "sistemaQuality": false
+      "url": "http://clubecpn.ddns.net:9000/"
     },
     {
       "codCli": "0076",
