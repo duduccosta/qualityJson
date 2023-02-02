@@ -274,7 +274,9 @@
         "build": "1"
       },
       "appName": "Clube Filadélfia",
-      "url": "http://191.187.33.81:8080/"
+      "url": "http://191.187.33.81:7790/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0232",
