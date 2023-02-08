@@ -321,6 +321,21 @@
       "url": "http://sistema.picapau.com.br:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0216",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube AEST",
+      "url": "http://aest.fortiddns.com:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
