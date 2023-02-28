@@ -336,6 +336,36 @@
       "url": "http://aest.fortiddns.com:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0053",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ponte de Terra Tênis Clube",
+      "url": "http://pontedeterra.dyndns.info:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
+    },
+    {
+      "codCli": "0081",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ipê Tênis Clube",
+      "url": "http://ddnsipetenisclube.ddns.net:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
