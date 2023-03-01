@@ -366,6 +366,21 @@
       "url": "http://ddnsipetenisclube.ddns.net:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0101",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube São Paulo de Assis",
+      "url": "http://170.80.41.149:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
