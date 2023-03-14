@@ -381,6 +381,21 @@
       "url": "http://170.80.41.149:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0214",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "ACCPE",
+      "url": "http://45.231.97.201:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
