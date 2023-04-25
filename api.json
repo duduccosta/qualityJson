@@ -426,6 +426,21 @@
       "url": "http://201.77.129.61:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0026",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Patos Tênis Clube",
+      "url": "http://patostenisclube.ddns.net:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
