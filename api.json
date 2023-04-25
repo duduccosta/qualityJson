@@ -441,6 +441,21 @@
       "url": "http://patostenisclube.ddns.net:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0034",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Votuporanga Clube",
+      "url": "http://177.129.99.171:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
