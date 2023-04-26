@@ -456,6 +456,21 @@
       "url": "http://177.129.99.171:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0100",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Náutico de Sete Lagoas CNSL",
+      "url": "http://sociocnsl.ddns.net:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
