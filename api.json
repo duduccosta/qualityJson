@@ -71,7 +71,9 @@
         "build": "4"
       },
       "appName": "Campestre Clube MA",
-      "url": "http://170.83.211.222:5000/"
+      "url": "http://170.83.211.222:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": false
     },
     {
       "codCli": "0070",
