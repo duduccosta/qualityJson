@@ -337,7 +337,7 @@
       "appName": "Clube AEST",
       "url": "http://aest.fortiddns.com:7789/",
       "idEmpresa": 1,
-      "sistemaQuality": true
+      "sistemaQuality": false
     },
     {
       "codCli": "0053",
