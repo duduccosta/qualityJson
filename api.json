@@ -503,6 +503,21 @@
       "url": "http://187.121.208.218:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0121",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Urupê Tênis Clube",
+      "url": "http://177.69.236.50:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": false
     }
   ]
 }
