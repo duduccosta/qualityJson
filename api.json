@@ -58,7 +58,7 @@
         "build": "4"
       },
       "appName": "Cajubá",
-      "url": "https://boleto.cajuba.org.br/"
+      "url": "http://clubecajuba.ddns.net:8080/"
     },
     {
       "codCli": "0120",
