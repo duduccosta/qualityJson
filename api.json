@@ -518,6 +518,21 @@
       "url": "http://177.69.236.50:7789/",
       "idEmpresa": 1,
       "sistemaQuality": false
+    },
+    {
+      "codCli": "0057",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Yara Clube de Marília",
+      "url": "http://restrito.yaraclube.com.br:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
