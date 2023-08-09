@@ -533,6 +533,21 @@
       "url": "http://restrito.yaraclube.com.br:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
+    },
+    {
+      "codCli": "0180",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Sociedade Morgenau",
+      "url": "http://189.26.116.6:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     }
   ]
 }
