@@ -563,6 +563,21 @@
       "url": "http://201.63.198.26:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0044",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Bauru Tênis Clube",
+      "url": "http://btc.enternoteacesso.com.br:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
