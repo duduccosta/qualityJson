@@ -578,6 +578,21 @@
       "url": "http://btc.enternoteacesso.com.br:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0236",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "House Park Club",
+      "url": "http://177.85.2.49:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
