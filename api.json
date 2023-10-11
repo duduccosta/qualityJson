@@ -99,7 +99,9 @@
         "build": "6"
       },
       "appName": "RegatasRP",
-      "url": "http://mail.clubederegatas.com.br:8888/"
+      "url": "http://mail.clubederegatas.com.br:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0219",
@@ -591,6 +593,21 @@
       },
       "appName": "House Park Club",
       "url": "http://177.85.2.49:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0000",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Beira Rio Ituiutaba",
+      "url": "http://app.clubebeirario.com.br:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     }
