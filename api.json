@@ -181,7 +181,9 @@
         "build": "2"
       },
       "appName": "Caicaras Jau",
-      "url": "http://caicarajau.ddns.net:7789/"
+      "url": "http://caicarajau.ddns.net:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": false
     },
     {
       "codCli": "0043",
