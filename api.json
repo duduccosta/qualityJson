@@ -627,6 +627,21 @@
       "url": "http://191.37.37.43:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0094",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Expo Águas Sumaré", 
+      "url": "http://189.91.238.174:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
