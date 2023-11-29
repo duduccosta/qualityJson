@@ -639,9 +639,24 @@
         "build": "1"
       },
       "appName": "Expo Águas Sumaré", 
+      "url": "http://0.0.0.0:0000/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0246",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Associação Atlética Palmeiras Jaú", 
       "url": "http://189.91.238.174:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
-    }
+    } 
   ]
 }
