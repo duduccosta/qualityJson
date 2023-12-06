@@ -639,7 +639,7 @@
         "build": "1"
       },
       "appName": "Expo Águas Sumaré", 
-      "url": "http://0.0.0.0:0000/",
+      "url": "http://201.62.127.176:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
