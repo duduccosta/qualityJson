@@ -644,7 +644,7 @@
       "idEmpresa": 1
     },
     {
-      "codCli": "0246",
+      "codCli": "0020",
       "ios": {
         "version": "1.0.0",
         "build": "1"
@@ -653,7 +653,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Associação Atlética Palmeiras Jaú", 
+      "appName": "Tennis Country Club", 
       "url": "http://189.91.238.174:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
