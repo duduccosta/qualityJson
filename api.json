@@ -3,12 +3,13 @@
     {
       "codcli": "0009",
       "nome": "Cajubá Country Club",
-      "url": "http://clubecajuba.ddns.net:8080/"
+      "url": "https://boleto.cajuba.org.br:7790/"
     }
   ],
   "appParticular": [
     {
       "codCli": "9998",
+      "idEmpresa": 1,
       "ios": {
         "version": "1.0.6",
         "build": "1"
@@ -18,8 +19,8 @@
         "build": "6"
       },
       "appName": "AppTeste",
-      "url": "https://qualitysys.com.br:1570/",
-      "sistemaQuality": true
+      "url": "http://192.168.100.87:7789/",
+      "sistemaQuality": false
     },
     {
       "codCli": "9988",
@@ -45,7 +46,9 @@
         "build": "8"
       },
       "appName": "MackenzieBH",
-      "url": "http://mackenziebh.myddns.me:7789/"
+      "url": "http://mackenziebh.myddns.me:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0009",
@@ -58,7 +61,9 @@
         "build": "4"
       },
       "appName": "Cajubá",
-      "url": "http://clubecajuba.ddns.net:8080/"
+      "url": "http://clubecajuba.ddns.net:7789/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0120",
@@ -100,8 +105,8 @@
       },
       "appName": "RegatasRP",
       "url": "http://mail.clubederegatas.com.br:7789/",
-      "idEmpresa": 1,
-      "sistemaQuality": true
+      "sistemaQuality": true,
+      "idEmpresa": 1
     },
     {
       "codCli": "0219",
@@ -114,7 +119,9 @@
         "build": "3"
       },
       "appName": "Clube Campestre Varginha",
-      "url": "https://associados.campestrevarginha.com.br:7790/"
+      "url": "https://associados.campestrevarginha.com.br:7790/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0231",
@@ -209,7 +216,9 @@
         "build": "2"
       },
       "appName": "Assary",
-      "url": "http://assary.ddns.net:50008/"
+      "url": "http://assary.ddns.net:50008/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
     },
     {
       "codCli": "0144",
@@ -237,7 +246,8 @@
         "build": "2"
       },
       "appName": "Thermas da Mata",
-      "url": "http://qualitysys.com.br:8988/"
+      "url": "http://192.168.15.203:7789/",
+      "sistemaQuality": true
     },
     {
       "codCli": "0018",
@@ -257,12 +267,12 @@
     {
       "codCli": "0083",
       "ios": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "build": "1"
       },
       "android": {
-        "version": "1.0.0",
-        "build": "1"
+        "version": "1.0.1",
+        "build": "2"
       },
       "appName": "AETÉ Clube",
       "url": "http://177.128.80.178:7789/",
@@ -311,7 +321,8 @@
       },
       "appName": "Thermas da Mata",
       "url": "http://168.0.97.58:7789/",
-      "sistemaQuality": false
+      "sistemaQuality": false,
+      "idEmpresa": 1
     },
     {
       "codCli": "0016",
@@ -473,7 +484,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Clube Náutico de Sete Lagoas CNSL",
+      "appName": "Clube Náutico Sete Lagoas",
       "url": "http://sociocnsl.ddns.net:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
@@ -578,7 +589,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Bauru Tênis Clube (BTC Financeiro)",
+      "appName": "Bauru Tênis Clube",
       "url": "http://btc.enternoteacesso.com.br:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
@@ -608,7 +619,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Clube Beira Rio Ituiutaba",
+      "appName": "Clube Beira Rio",
       "url": "http://app.clubebeirario.com.br:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -623,8 +634,23 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Iate Clube Piraju",
+      "appName": "Iate Clube Piraju", 
       "url": "http://191.37.37.43:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0246",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Associação Atlética Palmeiras", 
+      "url": "http://189.91.238.174:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
@@ -644,7 +670,7 @@
       "idEmpresa": 1
     },
     {
-      "codCli": "0246",
+      "codCli": "0020",
       "ios": {
         "version": "1.0.0",
         "build": "1"
@@ -653,25 +679,10 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Associação Atlética Palmeiras Jaú", 
-      "url": "http://189.91.238.174:7789/",
-      "sistemaQuality": false,
-      "idEmpresa": 1
-    },
-    {
-      "codCli": "0246",
-      "ios": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "android": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "appName": "Associação Atlética Palmeiras Jaú", 
+      "appName": "Tennis Country Club", 
       "url": "http://177.200.65.9:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
-    } 
+    }
   ]
 }
