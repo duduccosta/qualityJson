@@ -3,7 +3,7 @@
     {
       "codcli": "0009",
       "nome": "Cajubá Country Club",
-      "url": "http://clubecajuba.ddns.net:7789/"
+      "url": "http://clubecajuba.ddns.net:8080/"
     }
   ],
   "appParticular": [
@@ -267,12 +267,12 @@
     {
       "codCli": "0083",
       "ios": {
-        "version": "1.0.1",
+        "version": "1.0.0",
         "build": "1"
       },
       "android": {
-        "version": "1.0.1",
-        "build": "2"
+        "version": "1.0.0",
+        "build": "1"
       },
       "appName": "AETÉ Clube",
       "url": "http://177.128.80.178:7789/",
@@ -484,7 +484,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Clube Náutico Sete Lagoas",
+      "appName": "Clube Náutico Sete Lagoas CNSL",
       "url": "http://sociocnsl.ddns.net:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
@@ -589,7 +589,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Bauru Tênis Clube",
+      "appName": "Bauru Tênis Clube (BTC Financeiro)",
       "url": "http://btc.enternoteacesso.com.br:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
@@ -619,7 +619,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Clube Beira Rio",
+      "appName": "Clube Beira Rio Ituiutaba",
       "url": "http://app.clubebeirario.com.br:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -649,7 +649,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Associação Atlética Palmeiras", 
+      "appName": "Associação Atlética Palmeiras Jaú", 
       "url": "http://189.91.238.174:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
