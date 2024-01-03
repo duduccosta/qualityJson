@@ -683,6 +683,21 @@
       "url": "http://177.200.65.9:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0229",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Coqueiral Park",
+      "url": "http://45.187.170.17:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
