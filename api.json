@@ -335,7 +335,7 @@
         "build": "1"
       },
       "appName": "Pica-Pau Country Club",
-      "url": "http://177.66.100.154:7789/",
+      "url": "http://sistema.picapau.com.br:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
     },
