@@ -728,6 +728,21 @@
       "url": "http://177.52.26.250:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0213",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Olympico Club", 
+      "url": "http://177.182.162.152:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
