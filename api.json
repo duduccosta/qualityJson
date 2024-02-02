@@ -745,6 +745,21 @@
       "url": "http://177.182.162.152:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0242",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ituverava Tênis Clube", 
+      "url": "http://tenisclubeituverava.ddns.net:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
