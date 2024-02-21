@@ -760,6 +760,21 @@
       "url": "http://tenisclubeituverava.ddns.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0030",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Automóvel Clube Teófilo Otoni", 
+      "url": "http://168.195.3.92:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
