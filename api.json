@@ -742,7 +742,7 @@
         "build": "1"
       },
       "appName": "Olympico Club",
-      "url": "http://177.182.162.152:7789/",
+      "url": "http://olympico.ddns.net:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
     },
