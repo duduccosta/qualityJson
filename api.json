@@ -636,7 +636,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Iate Clube Piraju", 
+      "appName": "Iate Clube Piraju",
       "url": "http://191.37.37.43:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -651,7 +651,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Associação Atlética Palmeiras Jaú", 
+      "appName": "Associação Atlética Palmeiras Jaú",
       "url": "http://189.91.238.174:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -666,7 +666,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Expo Águas Sumaré", 
+      "appName": "Expo Águas Sumaré",
       "url": "http://201.62.127.176:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -681,7 +681,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Tennis Country Club", 
+      "appName": "Tennis Country Club",
       "url": "http://177.200.65.9:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
@@ -741,7 +741,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Olympico Club", 
+      "appName": "Olympico Club",
       "url": "http://177.182.162.152:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
@@ -756,7 +756,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Ituverava Tênis Clube", 
+      "appName": "Ituverava Tênis Clube",
       "url": "http://tenisclubeituverava.ddns.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -771,9 +771,24 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Automóvel Clube Teófilo Otoni", 
+      "appName": "Automóvel Clube Teófilo Otoni",
       "url": "http://168.195.3.92:7789/",
       "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0033",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Cravinhos Tênis Clube",
+      "url": "http://45.4.32.206:7789/",
+      "sistemaQuality": true,
       "idEmpresa": 1
     }
   ]
