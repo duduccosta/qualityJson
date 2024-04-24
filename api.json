@@ -790,6 +790,36 @@
       "url": "http://45.4.32.206:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0217",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Associação Atlética Bondespachense",
+      "url": "http://186.195.95.249:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0248",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Vila Olímpica da URT",
+      "url": "http://urtvilaolimpica.sytes.net:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
