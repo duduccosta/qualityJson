@@ -820,6 +820,21 @@
       "url": "http://urtvilaolimpica.sytes.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0097",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ideal Clube Paraguaçu",
+      "url": "http://177.38.22.94:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
