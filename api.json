@@ -162,7 +162,9 @@
         "build": "3"
       },
       "appName": "Caiçaras Country Clube",
-      "url": "http://177.69.95.81:6060/"
+      "url": "http://177.69.95.81:6060/",
+      "idEmpresa": 1,
+      "sistemaQuality": false
     },
     {
       "codCli": "0006",
