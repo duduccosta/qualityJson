@@ -704,21 +704,6 @@
       "idEmpresa": 1
     },
     {
-      "codCli": "0204",
-      "ios": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "android": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "appName": "Clube Albert Scharlé",
-      "url": "http://scharle.ddns.net:7789/",
-      "sistemaQuality": true,
-      "idEmpresa": 1
-    },
-    {
       "codCli": "0230",
       "ios": {
         "version": "1.0.0",
