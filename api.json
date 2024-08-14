@@ -852,6 +852,21 @@
       "url": "http://erp.c30.club:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0140",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Comercial Esporte Clube",
+      "url": "http://181.189.91.253:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
