@@ -867,6 +867,21 @@
       "url": "http://181.189.91.253:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0074",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Associação Atlética Pitangueiras",
+      "url": "http://45.226.79.24:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
