@@ -341,7 +341,7 @@
       "appName": "Pica-Pau Country Club",
       "url": "http://sistema.picapau.com.br:7789/",
       "idEmpresa": 1,
-      "sistemaQuality": true
+      "sistemaQuality": false
     },
     {
       "codCli": "0216",
