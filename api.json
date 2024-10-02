@@ -882,6 +882,21 @@
       "url": "http://45.226.79.24:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0158",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Uirapuru Iate Clube",
+      "url": "http://abntecuirapuru.ddns.net:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
