@@ -897,6 +897,21 @@
       "url": "http://abntecuirapuru.ddns.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0247",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Acqua Show Park Aquático Clube",
+      "url": "http://45.189.250.103:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
