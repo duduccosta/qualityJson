@@ -912,6 +912,21 @@
       "url": "http://45.189.250.103:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "1000",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Quality Clube",
+      "url": "https://teste.qualitysys.com.br:9103/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
