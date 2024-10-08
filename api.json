@@ -927,6 +927,21 @@
       "url": "https://teste.qualitysys.com.br:9103/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0250",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube de Campo Aguaí",
+      "url": "https://aguai.qualitysys.com.br:8103/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
