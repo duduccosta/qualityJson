@@ -942,6 +942,21 @@
       "url": "https://aguai.qualitysys.com.br:8103/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0210",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "AABB Limeira",
+      "url": "http://aabblimeira.ddns.com.br:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
