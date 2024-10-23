@@ -850,7 +850,7 @@
       },
       "appName": "Clube dos 30",
       "url": "http://erp.c30.club:7789/",
-      "sistemaQuality": true,
+      "sistemaQuality": false,
       "idEmpresa": 1
     },
     {
