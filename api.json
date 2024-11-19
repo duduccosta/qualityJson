@@ -972,6 +972,21 @@
       "url": "http://187.110.223.143:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0251",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Casa de Portugal Fernandópolis",
+      "url": "http://177.84.60.56:10867/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
