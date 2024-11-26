@@ -987,6 +987,21 @@
       "url": "http://177.84.60.56:10867/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0224",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Pontal Tênis Clube",
+      "url": "http://187.45.32.118:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
