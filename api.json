@@ -1002,6 +1002,21 @@
       "url": "http://187.45.32.118:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0252",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "UBA",
+      "url": "http://189.89.19.12:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
