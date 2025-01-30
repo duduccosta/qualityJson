@@ -1032,6 +1032,21 @@
       "url": "http://45.235.34.229:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0019",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Palmeiras de Uberlândia",
+      "url": "http://clubpalmeiras.ddns.com.br:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
