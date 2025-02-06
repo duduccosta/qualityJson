@@ -1047,6 +1047,36 @@
       "url": "http://clubpalmeiras.ddns.com.br:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0110",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Umuarama Clube LP",
+      "url": "http://170.150.135.242:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0112",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Cassience",
+      "url": "http://191.241.163.51:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
