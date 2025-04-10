@@ -551,7 +551,7 @@
       "appName": "Yara Clube de Marília",
       "url": "http://restrito.yaraclube.com.br:7789/",
       "idEmpresa": 1,
-      "sistemaQuality": true
+      "sistemaQuality": false
     },
     {
       "codCli": "0180",
