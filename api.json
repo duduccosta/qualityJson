@@ -91,7 +91,7 @@
         "build": "3"
       },
       "appName": "Magic Gardens",
-      "url": "http://201.16.142.105:7789/",
+      "url": "http://magicgardens.no-ip.org:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
     },
