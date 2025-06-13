@@ -534,7 +534,7 @@
         "build": "1"
       },
       "appName": "Urupê Tênis Clube",
-      "url": "http://45.6.159.100:7789/",
+      "url": "http://45.6.157.198:7789/",
       "idEmpresa": 1,
       "sistemaQuality": false
     },
@@ -1120,6 +1120,21 @@
       },
       "appName": "Clube Serra Verde",
       "url": "http://45.229.132.151:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
+    },
+    {
+      "codCli": "0148",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ipê Campestre Clube de Guapé",
+      "url": "http://ipeclubeguape.ddns.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     }
