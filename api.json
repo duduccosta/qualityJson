@@ -1137,6 +1137,21 @@
       "url": "http://ipeclubeguape.ddns.net:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0226",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Minas Clube GV",
+      "url": "http://193.186.4.240:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
