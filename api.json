@@ -1152,6 +1152,21 @@
       "url": "http://170.238.68.48:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0075",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Uberaba Country Clube",
+      "url": "http://ucc2025.ddns.net:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
