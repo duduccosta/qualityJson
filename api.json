@@ -1167,6 +1167,21 @@
       "url": "http://ucc2025.ddns.net:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0253",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Linhares Beach Acqua Park",
+      "url": "http://177.39.17.143:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
