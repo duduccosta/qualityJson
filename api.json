@@ -222,7 +222,7 @@
       "appName": "Assary",
       "url": "http://assary.ddns.net:50008/",
       "idEmpresa": 1,
-      "sistemaQuality": true
+      "sistemaQuality": false
     },
     {
       "codCli": "0144",
