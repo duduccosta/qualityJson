@@ -1182,6 +1182,21 @@
       "url": "http://177.39.17.143:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0254",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube de Campo das Figueiras",
+      "url": "http://186.209.10.102:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
