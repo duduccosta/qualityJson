@@ -1197,6 +1197,21 @@
       "url": "http://186.209.10.102:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0257",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Campestre do Buriti",
+      "url": "http://170.0.91.208:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
