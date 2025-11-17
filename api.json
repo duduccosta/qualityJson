@@ -1227,6 +1227,21 @@
       "url": "http://167.250.28.222:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0090",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Ipê Campestre Bom Despacho",
+      "url": "http://177.86.204.103:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
