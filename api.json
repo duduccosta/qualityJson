@@ -121,7 +121,7 @@
         "build": "3"
       },
       "appName": "Clube Campestre Varginha",
-      "url": "https://associados.campestrevarginha.com.br:7790/",
+      "url": "http://associados.campestrevarginha.com.br:7790/",
       "idEmpresa": 1,
       "sistemaQuality": false
     },
@@ -939,7 +939,7 @@
         "build": "1"
       },
       "appName": "Clube de Campo Aguaí",
-      "url": "https://191.31.160.163:8102/",
+      "url": "https://aguai.qualitysys.com.br:8103",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
