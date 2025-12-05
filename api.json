@@ -924,7 +924,7 @@
         "build": "1"
       },
       "appName": "Quality Clube",
-      "url": "https://teste.qualitysys.com.br:9103/",
+      "url": "http://191.31.160.163:9002/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
