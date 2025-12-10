@@ -46,7 +46,7 @@
         "build": "8"
       },
       "appName": "MackenzieBH",
-      "url": "http://hfe09djv73s.sn.mynetname.net:7789/",
+      "url": "http://mackenziebh.ddns.net:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
     },
@@ -249,9 +249,10 @@
         "version": "1.0.1",
         "build": "2"
       },
-      "appName": "Thermas da Mata",
-      "url": "http://192.168.15.203:7789/",
-      "sistemaQuality": true
+      "appName": "Caiçaras de JAU Local",
+      "url": "http://192.168.15.211:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     },
     {
       "codCli": "0018",
@@ -271,12 +272,12 @@
     {
       "codCli": "0083",
       "ios": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "build": "1"
       },
       "android": {
-        "version": "1.0.0",
-        "build": "1"
+        "version": "1.0.1",
+        "build": "2"
       },
       "appName": "AETÉ Clube",
       "url": "http://177.128.80.178:7789/",
@@ -704,6 +705,21 @@
       "idEmpresa": 1
     },
     {
+      "codCli": "0204",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Albert Scharlé",
+      "url": "http://scharle.ddns.net:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
+    },
+    {
       "codCli": "0230",
       "ios": {
         "version": "1.0.0",
@@ -746,21 +762,6 @@
       "appName": "Ituverava Tênis Clube",
       "url": "http://tenisclubeituverava.ddns.net:7789/",
       "sistemaQuality": false,
-      "idEmpresa": 1
-    },
-    {
-      "codCli": "0204",
-      "ios": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "android": {
-        "version": "1.0.0",
-        "build": "1"
-      },
-      "appName": "Clube Albert Scharlé",
-      "url": "http://scharle.ddns.net:7789/",
-      "sistemaQuality": true,
       "idEmpresa": 1
     },
     {
@@ -833,7 +834,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Ideal Clube de Paraguaçu",
+      "appName": "Ideal Clube Paraguaçu",
       "url": "http://177.38.22.94:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -848,7 +849,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "Clube dos 30",
+      "appName": "C30 Associado (Clube dos 30)",
       "url": "http://erp.c30.club:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -878,7 +879,7 @@
         "version": "1.0.0",
         "build": "1"
       },
-      "appName": "AAP Pitangueiras",
+      "appName": "AAP - Pitangueiras",
       "url": "http://45.226.79.24:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
@@ -939,7 +940,7 @@
         "build": "1"
       },
       "appName": "Clube de Campo Aguaí",
-      "url": "https://aguai.qualitysys.com.br:8103",
+      "url": "https://aguai.qualitysys.com.br:8103/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
