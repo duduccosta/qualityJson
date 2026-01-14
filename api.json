@@ -1243,6 +1243,21 @@
       "url": "http://177.86.204.103:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0138",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Araxá",
+      "url": "http://clubearaxa.ddns.net:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
