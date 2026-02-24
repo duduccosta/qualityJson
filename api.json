@@ -3,7 +3,7 @@
     {
       "codcli": "0009",
       "nome": "Cajubá Country Club",
-      "url": "http://clubecajuba.ddns.net:8080/"
+      "url": "https://boleto.cajuba.org.br:7790/"
     }
   ],
   "appParticular": [
@@ -19,7 +19,7 @@
         "build": "6"
       },
       "appName": "AppTeste",
-      "url": "http://192.168.100.87:7789/",
+      "url": "http://192.168.1.11:7789/",
       "sistemaQuality": false
     },
     {
@@ -324,7 +324,7 @@
         "version": "1.0.1",
         "build": "2"
       },
-      "appName": "Thermas da Mata",
+      "appName": "[DESATIVADO] Thermas da Mata",
       "url": "http://168.0.97.58:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
@@ -475,7 +475,7 @@
         "build": "1"
       },
       "appName": "Votuporanga Clube",
-      "url": "http://177.129.99.171:7789/",
+      "url": "http://168.227.57.128:7789/",
       "idEmpresa": 1,
       "sistemaQuality": true
     },
@@ -655,7 +655,7 @@
         "build": "1"
       },
       "appName": "Associação Atlética Palmeiras Jaú",
-      "url": "http://189.91.238.174:7789/",
+      "url": "http://189.50.105.139:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
