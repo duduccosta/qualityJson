@@ -1255,7 +1255,7 @@
         "build": "1"
       },
       "appName": "Clube Araxá",
-      "url": "http://clubearaxa.ddns.net:7789/",
+      "url": "http://clubearaxa.duckdns.org:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
