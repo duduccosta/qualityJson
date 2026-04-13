@@ -1273,6 +1273,21 @@
       "url": "http://clubecasadecampo.ddns.com.br:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0147",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Primavera Country Club",
+      "url": "http://168.227.224.74:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
