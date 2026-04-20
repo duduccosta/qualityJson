@@ -510,6 +510,21 @@
       "sistemaQuality": true
     },
     {
+      "codCli": "4567",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "ASMUBE Bem-estar (4567)",
+      "url": "http://187.94.65.142:4567/",
+      "idEmpresa": 1,
+      "sistemaQuality": true
+    },
+    {
       "codCli": "0176",
       "ios": {
         "version": "1.0.0",
