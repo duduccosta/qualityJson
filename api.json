@@ -1303,6 +1303,21 @@
       "url": "http://168.227.224.74:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0154",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube de Campo Pouso Alegre (CCPA)",
+      "url": "http://179.83.160.218:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
