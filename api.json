@@ -1318,6 +1318,21 @@
       "url": "http://179.83.160.218:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0194",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Clube Montesino",
+      "url": "http://138.121.23.2:7789/",
+      "sistemaQuality": true,
+      "idEmpresa": 1
     }
   ]
 }
