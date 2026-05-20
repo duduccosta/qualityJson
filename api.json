@@ -1333,6 +1333,21 @@
       "url": "http://138.121.23.2:7789/",
       "sistemaQuality": true,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0262",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Umuarama Clube de Bariri",
+      "url": "http://187.62.178.142:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
