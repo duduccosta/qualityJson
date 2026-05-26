@@ -1348,6 +1348,21 @@
       "url": "http://187.62.178.142:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0260",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "AABB Ribeirão Preto",
+      "url": "http://177.200.77.61:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
