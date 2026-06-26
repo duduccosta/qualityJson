@@ -1363,6 +1363,21 @@
       "url": "http://177.200.77.61:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0098",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Tropical Thermas Park",
+      "url": "http://131.196.157.44:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
