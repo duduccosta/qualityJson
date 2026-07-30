@@ -1405,7 +1405,7 @@
         "build": "1"
       },
       "appName": "Pousada Entre Serras",
-      "url": "http://186.210.71.184:7789/",
+      "url": "http://186.210.65.106:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     }
