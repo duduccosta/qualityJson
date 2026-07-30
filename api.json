@@ -1393,6 +1393,21 @@
       "url": "http://app.joinvilleiateclube.com.br:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
+    },
+    {
+      "codCli": "0259",
+      "ios": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "android": {
+        "version": "1.0.0",
+        "build": "1"
+      },
+      "appName": "Pousada Entre Serras",
+      "url": "http://186.210.71.184:7789/",
+      "sistemaQuality": false,
+      "idEmpresa": 1
     }
   ]
 }
