@@ -955,7 +955,7 @@
         "build": "1"
       },
       "appName": "Clube de Campo Aguaí",
-      "url": "https://160.20.88.135:7789/",
+      "url": "http://160.20.88.135:7789/",
       "sistemaQuality": false,
       "idEmpresa": 1
     },
