@@ -580,7 +580,7 @@
         "build": "1"
       },
       "appName": "Sociedade Morgenau",
-      "url": "http://177.43.45.128:7789/",
+      "url": "https://morgenau.qualitysys.com.br:7789/",
       "idEmpresa": 1,
       "sistemaQuality": false
     },
